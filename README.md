@@ -39,8 +39,8 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/skr/shailesh)
     
 
- <details> 
- <p align="center"> 
+ 
+ <p align="center"> 
    <a href="https://github.com/wervlad"> 
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skrShailesh&theme=transparent" /> 
    </a> 

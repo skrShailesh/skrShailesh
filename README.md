@@ -26,6 +26,17 @@
     
 ### Database
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/wervlad)
+    
+### OS  
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
+    
+
+    
+    
+    
+
+  
+ 
 
 
 <!--

@@ -1,14 +1,10 @@
 ### Hi there 👋
-
-<div id = "header" align = "center"> 
-   <img src = "https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/
- giphy.gif "width = "100"/> 
- </div> 
-  
- <div id = "badges" align = "center"> 
-    
+ 
+ <div id ="header" align ="center"> 
+   <img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width ="100"/> 
+ </div>
       
-..............................
+
 <p align="center">
     <a href="https://github.com/skrShailesh">
         <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hi!+ I'm +Shailesh+Kumar;A Computer Science Engineering student+%7C+%7C+;Welcome to my repo+%7C+%7C+" alt="Typing SVG" />

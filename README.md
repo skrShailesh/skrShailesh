@@ -15,6 +15,14 @@
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/wervlad)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/wervlad)
   
+ ### Languages  
+  
+ <p align = "center"> 
+   <a href="https://skillicons.dev"> 
+     <img src="https://skillicons.dev/icons?i=,py,java,c,c++,html,css" /> 
+   </a> 
+ </p>
+    
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/wervlad)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/wervlad)

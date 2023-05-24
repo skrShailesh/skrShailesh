@@ -19,6 +19,10 @@
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/wervlad)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/wervlad)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/wervlad)
+    
+### Technologies and Framework
+[![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML)](https://github.com/wervlad)
+[![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS)](https://github.com/wervlad)
 
 <!--
 **skrShailesh/skrShailesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

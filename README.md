@@ -23,6 +23,8 @@
 ### Technologies and Framework
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML)](https://github.com/wervlad)
 [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS)](https://github.com/wervlad)
+    
+
 
 <!--
 **skrShailesh/skrShailesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,14 @@
-### Hi there 👋
- 
- <div id ="header" align ="center"> 
+
+<p align="center">
+    <a href="https://github.com/skrShailesh">
+        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=2000&pause=100&multiline=true&width=300&height=50& lines=Hi!+ there;" alt="Typing SVG" />
+    </a>
+  
+
+
+
+
+<div id ="header" align ="center"> 
    <img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width ="100"/> 
  </div>
       

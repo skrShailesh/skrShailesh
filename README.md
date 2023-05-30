@@ -77,8 +77,15 @@
  </p>
  
      
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skrShailesh&count_private=true&show_icons=true&theme=radical" />
+## My Github Stats and top languages!
 
+<table width="100%">
+  <tr>
+    <td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=skrShailesh&show_icons=true&hide_border=true" /> </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skrShailesh&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </td>
+  </tr>
+ <table>
     
 
   

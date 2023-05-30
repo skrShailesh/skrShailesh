@@ -25,14 +25,15 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/wervlad)
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML)](https://github.com/wervlad)
 [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS)](https://github.com/wervlad)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/wervlad)
+[![GITHUB](https://img.shields.io/badge/gitbhub-black?style=for-the-badge&logo=gnu-github&logoColor=white)](https://github.com/wervlad)
+[![GIT](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/wervlad)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/wervlad)
   
  ### Languages  
   
- <p align = "center"> 
+ <p align = "left"> 
    <a href="https://skillicons.dev"> 
-     <img src="https://skillicons.dev/icons?i=,py,java,c,c++,html,css" /> 
+     <img src="https://skillicons.dev/icons?i=,py,java,c,html,css,mysql,github,git" /> 
    </a> 
  </p>
     

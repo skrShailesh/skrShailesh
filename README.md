@@ -41,7 +41,7 @@
   
  <p align = "left"> 
    <a href="https://skillicons.dev"> 
-     <img src="https://skillicons.dev/icons?i=,py,java,c,html,css,mysql,sqlite,github,git" /> 
+     <img src="https://skillicons.dev/icons?i=,py,java,c,cpp,html,css,mysql,sqlite,github,git" /> 
    </a> 
  </p>
     

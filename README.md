@@ -18,6 +18,12 @@
         <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hi!+ I'm +Shailesh+Kumar;A Computer Science Engineering student+%7C+%7C+;Welcome to my repo+%7C+%7C+" alt="Typing SVG" />
     </a>
 
+ <p align="center">
+   <a href="https://github.com/skrShailesh"> 
+     <img src="https://komarev.com/ghpvc/?username=skrShailesh&color=blue&style=flat)" /> 
+   </a> 
+ </p>    
+    
 ### Languages
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/wervlad)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad)
@@ -73,11 +79,7 @@
  </p> 
   
   
- <p align="center">
-   <a href="https://github.com/skrShailesh"> 
-     <img src="https://komarev.com/ghpvc/?username=skrShailesh&color=blue&style=flat)" /> 
-   </a> 
- </p>
+
  
      
 ## My Github Stats and top languages!

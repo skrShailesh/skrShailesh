@@ -28,12 +28,14 @@
 [![GITHUB](https://img.shields.io/badge/gitbhub-black?style=for-the-badge&logo=gnu-github&logoColor=white)](https://github.com/wervlad)
 [![GIT](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/wervlad)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/wervlad)
+[![SQLITE](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)](https://github.com/skrShailesh)
+    
   
  ### Languages  
   
  <p align = "left"> 
    <a href="https://skillicons.dev"> 
-     <img src="https://skillicons.dev/icons?i=,py,java,c,html,css,mysql,github,git" /> 
+     <img src="https://skillicons.dev/icons?i=,py,java,c,html,css,mysql,sqlite,github,git" /> 
    </a> 
  </p>
     
@@ -48,6 +50,7 @@
     
 ### Database
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/wervlad)
+[![SQLITE](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)](https://github.com/skrShailesh)
     
 ### OS  
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/skr/shailesh)

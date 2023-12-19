@@ -23,6 +23,16 @@
      <img src="https://komarev.com/ghpvc/?username=skrShailesh&color=blue&style=flat)" /> 
    </a> 
  </p>    
+
+
+ ### OVERVIEW Languages  
+  
+ <p align = "left"> 
+   <a href="https://skillicons.dev"> 
+     <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,py,mysql,sqlite,github,git" /> 
+   </a> 
+ </p>
+
     
 ### Languages
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/wervlad)
@@ -31,19 +41,11 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/wervlad)
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML)](https://github.com/wervlad)
 [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS)](https://github.com/wervlad)
-[![GITHUB](https://img.shields.io/badge/gitbhub-black?style=for-the-badge&logo=gnu-github&logoColor=white)](https://github.com/wervlad)
-[![GIT](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/wervlad)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/wervlad)
 [![SQLITE](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)](https://github.com/skrShailesh)
     
   
- ### Languages  
-  
- <p align = "left"> 
-   <a href="https://skillicons.dev"> 
-     <img src="https://skillicons.dev/icons?i=,py,java,c,cpp,html,css,mysql,sqlite,github,git" /> 
-   </a> 
- </p>
+
     
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/wervlad)
@@ -57,9 +59,22 @@
 ### Database
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/wervlad)
 [![SQLITE](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)](https://github.com/skrShailesh)
+
+### ORM
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+#### Version Control
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
     
 ### OS  
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/skr/shailesh)
+
+
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shaileshkumar05/)](https://www.linkedin.com/in/shaileshkumar05/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/skr_shailesh/)](https://www.instagram.com/skr_shailesh/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://www.skrshailesh1996@gmail.com)](https://www.skrshailesh1996@gmail.com)
     
 
  
